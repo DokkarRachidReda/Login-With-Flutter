@@ -1,16 +1,17 @@
-# animation
+# Login Page
+Login screen with simple animation at the beginning and button animation ,built with flutter.
 
-A new Flutter project.
+## Presentation of the work 
 
-## Getting Started
+<img src="https://github.com/DokkarRachidReda/Login-With-Flutter/blob/master/gif.gif" width="190" height="300" />
 
-This project is a starting point for a Flutter application.
+## Things to add
 
-A few resources to get you started if this is your first Flutter project:
+* find a solution to the overflow bug
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* make it responsive
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+## contribution 
+
+feel free to contribute, to add somthing or to use this app
